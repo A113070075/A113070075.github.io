@@ -6,3 +6,7 @@ body {
     --bs-primary: gray;
     --bs-primary-rgb: 38, 89, 230;
 }
+
+social-icons .social-icon:hover {
+    background-color: green;
+  }
