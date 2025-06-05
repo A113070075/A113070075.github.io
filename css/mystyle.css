@@ -16,3 +16,11 @@ body {
 h3 {
     color: var(--bs-primary);
 }
+
+a, a:link, a:visited {
+  color: #004d40;
+  text-decoration: underline;
+}
+a:hover, a:active {
+  color: #90ee90;
+}
