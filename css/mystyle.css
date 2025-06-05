@@ -4,7 +4,7 @@ body {
 
 :root {
     --bs-primary: #000000;
-    --bs-primary-rgb: black;
+    --bs-primary-rgb: 38, 89, 230;
 }
 
 .social-icons .social-icon:hover {
