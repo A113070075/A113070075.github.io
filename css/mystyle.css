@@ -3,8 +3,8 @@ body {
 }
 
 :root {
-    --bs-primary: #004d40;
-    --bs-primary-rgb: 38, 89, 230;
+    --bs-primary: #004d40 !important;
+    --bs-primary-rgb: 0, 77, 64 !important;
 }
 
 .social-icons .social-icon:hover {
