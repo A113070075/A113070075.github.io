@@ -3,18 +3,14 @@ body {
 }
 
 :root {
-    --bs-primary: #004d40 !important;
-    --bs-primary-rgb: 0, 77, 64 !important;
+    --bs-primary: #004d40;
+    --bs-primary-rgb: 0, 77, 64;
 }
 
 .social-icons .social-icon:hover {
     background-color: #90ee90;
     color: white;
     transition: background-color 0.3s ease, color 0.3s ease;
-}
-
-.social-icons .social-icon:hover {
-    background-color: #90ee90;
 }
 
 h3 {
