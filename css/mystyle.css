@@ -1,8 +1,12 @@
 body {
-    background-color: gray;
+    background-color: #D3D3D3;
 }
 
 :root {
     --bs-primary: #000000;
-    --bs-primary-rgb: 38, 89, 230;
+    --bs-primary-rgb: black;
 }
+
+.social-icons .social-icon:hover {
+    background-color: white;
+  }
