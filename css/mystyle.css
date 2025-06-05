@@ -1,0 +1,8 @@
+body {
+    background-color: gray;
+}
+
+:root {
+    --bs-primary: #000000;
+    --bs-primary-rgb: 38, 89, 230;
+}
