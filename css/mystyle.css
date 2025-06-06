@@ -17,10 +17,11 @@ h3 {
     color: var(--bs-primary);
 }
 
-a, a:link, a:visited {
-  color: #004d40;
-  text-decoration: underline;
+a[href^="mailto:"] {
+    color: var(--bs-primary);
 }
-a:hover, a:active {
-  color: #90ee90;
+
+a[href^="mailto:"]:hover {
+    color: #90ee90;
+    text-decoration: underline;
 }
